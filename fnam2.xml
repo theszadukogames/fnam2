@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+	<string id='NewGame'>New Game</string>
+	<string id='NextNight'>Continue</string>
+	<string id='6_night'>6th night</string>
+	<string id='customNight'>Custom Night</string>
+	<string id='creator'>Created by: TSG in 2020</string>
+	<string id='help'>Tutorial/Help</string>
+	<string id='skip'>Skip a night</string>
+	<string id='ads'>Remove ads</string>
+	<string id='help2'>Help in the translation</string>
+	<string id='hofok'>Temperature</string>
+	<string id='ido'> AM</string>
+	<string id='aram'>Power</string>
+	<string id='go1'>Game over!</string>
+	<string id='go2'>You were killed!</string>
+	<string id='go3'>Just do it! Yes, you can!</string>
+	<string id='go4'>You were good. Just try to be more accurate.</string>
+	<string id='go5'>3,6. Not great, not terrible.</string>
+	<string id='go6'>Experience is the best teacher.</string>
+	<string id='go7'>I trust your next try will succeed!</string>
+	<string id='go8'>I know that you will succeed.</string>
+	<string id='go9'>You were good.</string>
+	<string id='lang'>Language</string>
+	<string id='moth'>Moth attacks in: </string>
+	<string id='nn'>--not now--</string>
+</strings>
+<!--Angol-->
